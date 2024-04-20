@@ -6,4 +6,4 @@ For all of our American Minecrafters, now you can subscribe for a monthly box of
 
 Find out more at [Minechest.com](http://minechest.com)
 
-<img src="https://64.media.tumblr.com/34a6e6ac4d3f79181f5fbc7fc3aaa794/tumblr_inline_o2zwlhFL0r1rupijl_250.png" data-orig-height="196" data-orig-width="200" alt="image" width="200" height="196">
+<img src="/img/chest.png" data-orig-height="196" data-orig-width="200" alt="image" width="200" height="196">
