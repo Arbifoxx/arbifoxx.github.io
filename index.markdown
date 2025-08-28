@@ -4,7 +4,7 @@
 
 ---
 layout: forward
-target: https://waterdragon78.github.io/news/
+target: https://arbifoxx.github.io/news/
 ---
 # yes
 
